@@ -1,4 +1,4 @@
-# Write a function to find the factorial of a number.
+# Write a program to find the factorial of a number.
 
 
 num = int(input("Enter a number: "))
