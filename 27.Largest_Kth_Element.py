@@ -15,5 +15,5 @@ kth_value = int(
 if kth_value <= 0 or kth_value > len(array):
     print("Invalid value for K")
 else:
-    highest_kth_element = array[kth_value - 1]
-    print("The kth highest element in the given array is:", highest_kth_element)
+    largest_kth_element = array[kth_value - 1]
+    print("The kth highest element in the given array is:", largest_kth_element)
